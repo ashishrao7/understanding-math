@@ -1,6 +1,6 @@
 # Understanding Mathematics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Articles
+## Informative Articles 
 - [Understanding Mathematics](http://www.math.utah.edu/~pa/math.html), a study guide by [Peter Alfeld](http://www.math.utah.edu/~pa/)
 - [How to Develop a Mindset for Math](https://betterexplained.com/articles/how-to-develop-a-mindset-for-math/) at [BetterExplained](https://betterexplained.com)
 - [How do math geniuses understand extremely hard math concepts so quickly?](https://www.quora.com/How-do-math-geniuses-understand-extremely-hard-math-concepts-so-quickly) at [Quora](https://www.quora.com)
